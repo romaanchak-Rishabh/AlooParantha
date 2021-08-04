@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/AlooParantha/static/js/main.b8a19d5e.chunk.js",
+    "main.js.map": "/AlooParantha/static/js/main.b8a19d5e.chunk.js.map",
+    "runtime-main.js": "/AlooParantha/static/js/runtime-main.f964413c.js",
+    "runtime-main.js.map": "/AlooParantha/static/js/runtime-main.f964413c.js.map",
+    "static/js/2.e758081c.chunk.js": "/AlooParantha/static/js/2.e758081c.chunk.js",
+    "static/js/2.e758081c.chunk.js.map": "/AlooParantha/static/js/2.e758081c.chunk.js.map",
+    "index.html": "/AlooParantha/index.html",
+    "precache-manifest.ce2bfdcfa8e4cca9afdcefe3a06b3bd5.js": "/AlooParantha/precache-manifest.ce2bfdcfa8e4cca9afdcefe3a06b3bd5.js",
+    "service-worker.js": "/AlooParantha/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f964413c.js",
+    "static/js/2.e758081c.chunk.js",
+    "static/js/main.b8a19d5e.chunk.js"
+  ]
+}
